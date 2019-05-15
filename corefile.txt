@@ -12,8 +12,9 @@ this is core project : 4 commit
 
 hi 
 this is core project : 5 commit
-hi tis is visual studio coomiit
 
+hi tis is visual studio coomiit
+hi seventh commit
 
 
 
